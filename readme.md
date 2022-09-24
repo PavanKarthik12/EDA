@@ -1,6 +1,9 @@
 # Exploratory Data Analysis
  
-EDA is one of the major import phase we do in data science life cycle 
+EDA is one of the major import phase we do in data science life cycle in python we have multiple automated and manual tools to do this EDA Analysis some sample automated tools were as follows :
+
+### pandas_profiling
+### 
 
 what we do in this EDA :
 
